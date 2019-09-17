@@ -1,0 +1,3 @@
+ this app about shopping list
+we can add items in a list
+we can delete or add any item 
