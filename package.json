@@ -9,7 +9,7 @@
   "author": "gopichand",
   "license": "MIT",
   "dependencies": {
-    "electron": "^6.0.9"
+    "electron": "^9.1.0"
   },
   "devDependencies": {
     "electron-package": "^0.1.0"
